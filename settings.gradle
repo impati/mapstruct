@@ -1,0 +1,4 @@
+rootProject.name = 'mapstruct'
+
+include(":my-api")
+include(":my-domain")
